@@ -24,7 +24,7 @@ export default function Layout({ title, keywords, description, children }) {
 }
 
 Layout.defaultProps = {
-  title: "Art Fun",
-  description: "Find Art exhibition events",
-  keywords: "art galleries, art event, painting exhibition",
+  title: "Book Library",
+  description: "Check out our library of books!",
+  keywords: "books, reading, library",
 };
