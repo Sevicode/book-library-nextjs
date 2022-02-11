@@ -23,8 +23,9 @@ export default function Home(books) {
 }
 
 export async function getStaticProps() {
-  const res = await fetch(`${API_URL / api / books}`);
+  const res = await fetch(`${API_URL}/api/books`);
   const books = await res.json();
+  console.log(books)
   return {
     props: { books: books.slice(0, 3) },
     revalidate: 1,
