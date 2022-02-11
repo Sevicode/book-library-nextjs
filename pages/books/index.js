@@ -1,14 +1,13 @@
 import Layout from "@/components/Layout";
-import EventItem from "@/components/EventItem";
-import { API_URL } from "@/config/index";
+import BookItems from "@/components/BookItems";
 export default function BooksPage({ books }) {
   return (
     <Layout>
-      <h1>Events</h1>
+      <h1>All Books</h1>
       {books.length === 0 && <h3>No books to show</h3>}
 
       {books.map((book) => (
-        <EventItem key={book.id} book={book} />
+        <BookItems key={book.id} book={book} />
       ))}
     </Layout>
   );
