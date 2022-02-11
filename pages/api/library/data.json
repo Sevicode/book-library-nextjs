@@ -1,12 +1,12 @@
 {
-  "library": [
+  "books": [
     {
       "id": "1",
       "title": "Go The Programming Language",
       "slug": "go-the-programming-language",
       "author": "Alan Donovan, Brian Kernighan ",
       "description": "The Go Programming Language is the authoritative resource for any programmer who wants to learn Go. It shows how to write clear and idiomatic Go to solve real-world problems. The book does not assume prior knowledge of Go nor experience with any specific language, so you'll find it accessible whether you're most comfortable with JavaScript, Ruby, Python, Java, or C++.",
-      "image": "/images/book1.jpeg",
+      "image": "/images/book1.jpg",
       "format": "Paperback | 400 pages",
       "publisher": "Pearson Education"
     },
@@ -16,7 +16,7 @@
       "slug": "Web-design-with-html-css-javaScript-and-jquery-set",
       "author": "Jon Duckett",
       "description": "A two-book set for web designers and front-end developersThis two-book set combines the titles `HTML & CSS: Designing and Building Web Sites` and `JavaScript & jQuery: Interactive Front-End Development.` Together these two books form an ideal platform for anyone who wants to master HTML and CSS before stepping up to JavaScript and jQuery.`HTML & CSS` covers structure, text, links, images, tables, forms, useful options, adding style with CSS, fonts, colors, thinking in boxes, styling lists and tables, layouts, grids, and even SEO, Google analytics, ftp, and HTML5. `JavaScript & jQuery` offers an excellent combined introduction to these two technologies using a clear and simple visual approach using diagrams, infographics, and photographs.A handy two-book set that uniquely combines related technologiesHighly visual format and accessible language makes these books highly effective learning toolsPerfect for beginning web designers and front-end developers",
-      "image": "/images/book2.jpeg",
+      "image": "/images/book2.jpg",
       "format": "Paperback | 1152 pages",
       "publisher": "John Wiley & Sons Inc"
     },
@@ -26,7 +26,7 @@
       "slug": "the-linux-programming-interface",
       "author": "Michael Kerrisk",
       "description": "The Linux Programming Interface (TLPI) is the definitive guide to the Linux and UNIX programming interface the interface employed by nearly every application that runs on a Linux or UNIX system. In this authoritative work, Linux programming expert Michael Kerrisk provides detailed descriptions of the system calls and library functions that you need in order to master the craft of system programming, and accompanies his explanations with clear, complete example programs. You'll find descriptions of over 500 system calls and library functions, and more than 200 example programs, 88 tables, and 115 diagrams. You'll learn how to: Read and write files efficiently Use signals, clocks, and timers Create processes and execute programs Write secure programs Write multithreaded programs using POSIX threads Build and use shared libraries Perform interprocess communication using pipes, message queues, shared memory, and semaphores Write network applications with the sockets API While The",
-      "image": "/images/book3.jpeg",
+      "image": "/images/book3.jpg",
       "format": "Hardback | 1552 pages",
       "publisher": "No Starch Press,US"
     },
@@ -36,7 +36,7 @@
       "slug": "head-first-javaScript-programming",
       "author": "Eric Freeman",
       "description": "What will you learn from this book? This brain-friendly guide teaches you everything from JavaScript language fundamentals to advanced topics, including objects, functions, and the browser's document object model. You won't just be reading - you'll be playing games, solving puzzles, pondering mysteries, and interacting with JavaScript in ways you never imagined. And you'll write real code, lots of it, so you can start building your own web applications. Prepare to open your mind as you learn (and nail) key topics including: The inner details of JavaScript How JavaScript works with the browser The secrets of JavaScript types Using arrays The power of functions How to work with objects Making use of prototypes Understanding closures Writing and testing applications What's so special about this book? We think your time is too valuable to waste struggling with new concepts. Using the latest research in cognitive science and learning theory to craft a multi-sensory learning experience, Head First JavaScript Programming uses a visually rich format designed for the way your brain works, not a text-heavy approach that puts you to sleep.",
-      "image": "/images/book4.jpeg",
+      "image": "/images/book4.jpg",
       "format": "Paperback | 600 pages",
       "publisher": "O'Reilly Media, Inc, USA"
     },
@@ -46,7 +46,7 @@
       "slug": "elements-of-programming-interviews-in-python-the-insiders-Guide",
       "author": "Tsung-hsien Lee, Amit Prakash, Adnan Aziz",
       "description": "Coding problems are presented through a series of chapters on basic and advanced data structures, searching, sorting, algorithm design principles, and concurrency. Each chapter stars with a brief introduction, a case study, top tips, and a review of the most important library methods. This is followed by a broad and thought-provoking set of problems.",
-      "image": "/images/book5.jpeg",
+      "image": "/images/book5.jpg",
       "format": "Paperback | 442 pages",
       "publisher": "Createspace Independent Publishing Platform"
     },
@@ -56,7 +56,7 @@
       "slug": "c-programming-language",
       "author": "Brian Kernighan, Dennis Ritchie",
       "description": "This edition describes C as defined by the ANSI standard. This book is meant to help the reader learn how to program in C. The book assumes some familiarity with basic programming concepts like variables, assignment statements, loops, and functions. A novice programmer should be able to read along and pick up the language.",
-      "image": "/images/book6.jpeg",
+      "image": "/images/book6.jpg",
       "format": "Paperback | 288 pages",
       "publisher": "Pearson Education"
     }
